@@ -29,7 +29,7 @@ const contents = [
   "Challenge: Trink ein Glas Wasser mehr als sonst 🚰",
   "🎲 Du hast eine  " + (Math.floor(Math.random() * 6) + 1) + " gewürfelt!",
   "🎁 Dein virtuelles Geschenk: 🎂",
-  "Glücksrad Ergebnis: " + ["🍎","🍌","🍇","🍉"][Math.floor(Math.random()*4)],
+  "Glücksrad Ergebnis: " + ["🍎","🍌","🍇","🍉","❤️","💀"][Math.floor(Math.random()*4)],
   "☃️ Winter-Grüße: Heute schneit es digital ❄️",
   "🌸 Frühlings-Überraschung: Blumen blühen 🌷",
   "🎃 Happy Halloween mit einem Kürbis!",
